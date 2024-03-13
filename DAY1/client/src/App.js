@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path='/context' element={<Home/>}/>
+        <Route path='/' element={<Home/>}/>
       </Routes>
     </div>
   );
